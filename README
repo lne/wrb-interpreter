@@ -1,0 +1,7 @@
+== Welcome to wrb-interpreter
+
+On line interpreter of Ruby. It's used by wrb(https://github.com/lne/wrb).
+
+Version 1.0.0
+ * 2012/06/06
+ * The first release.
